@@ -1,0 +1,61 @@
+This project should be completed and its capabilities tested by October 1st. If we are running late in development we will need to reduce the options in the finished product. Production will follow the software development lifecycle and consist of 5 Phases. Three of the middle phases will include 2 different development goals, A and B, which will be worked on concurrently. A and B goals will deal with non-dependant parts of the project, and the results will be integrated together (if possible) before starting the next phase.  
+
+Current schedule markers are tentative. An online Gantt chart of this project plan can be found at  https://www.tomsplanner.com/public/ba1. Please refer to it for the latest updates to scheduling and task assignments. Password is “krowdbyz” (lowercase) 
+
+
+Phase 1 - General Planning 
+Planning (finish by May 20th)
+Overview document (Sam) 
+Scope document (Sam)
+Project plan and schedule (Sam, Anyun) 
+Project partitioning and assignments (Anyun) 
+User interaction sequence flow diagram (Sam) 
+Requirements/Design (finish by May 31st)
+Existing PvP and PvS games research (Curtis, Kristan)
+Initial database mapping (Anyun)
+Initial script mapping (Anyun)
+
+Phase 2 - Question Database and PvS Interface Creation 
+(finish by June 30th)
+Planning (finish by June 10th)
+Assign tasks (Sam, Anyun) 
+Decide on complexity and technology for PGI (Anyun, Sam, Pavel + Whole Team)
+Search Github etc. for open source code for PvS/PvP games or similar scripts (All Developers) 
+Goal A - Test Questions Database (and potential interface) 
+Requirements (finish by June 6th)
+30 Questions for 2 Skill Categories on excel files (Curtis, Kristan)
+Research random selection feature - and open sourced code. (Curtis, Dmitriy)
+Design (finish by June 6th)
+Upload excel question sheets to database 
+QDI visual design (optional)(Darius) 
+Development (finish by June 10th)
+Develop reader for excel files with questions. 
+Develop random question selection feature (from test database) (Anyun, Dmitriy)
+Testing (finish by June 12th)
+ Test random selection feature (if it can be independent from main PGI design). (Curtis, Kristen)
+Goal B - PvS Interface
+Requirements (finish by June 10th)
+SR document for basic game process (Sam) 
+System process flow chart (Sam)
+Design (finish by June 10th)
+PGI Visual Design (Sam, Darius, Curtis)
+Visuals for Loading Page (PGI.2) and Score Page (PGI.3) (Darius)
+Development (finish by June 25th) 
+Develop function testgen.php
+Develop function score.php
+Develop function end.php
+Develop function waiting.php
+Develop function showtest.php
+Develop PGI interface for PvS (?)
+Game timer development (displays timer and ends game when time is up) (?)
+Loading Page/Message (player wait the system to generate a test) (?)
+Score display page (Right/Wrong score for PvS, for PvP = Winner/Loser) (?)
+Testing (finish by June 28th)
+Write test cases (Curtis, Kristen)
+Test gameplay, random feature, timer. (Curtis, Kristen)
+Integration and Implementation (finish by June 30th)
+Final testing of all components (Dmitriy, Rishi) 
+
+========================
+Phases 3-5 need further task development, and the dates are tentative.  
+========================
